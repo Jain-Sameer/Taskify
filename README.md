@@ -1,6 +1,7 @@
 Here’s a simple and concise `README.md` file for a to-do app named **Taskify**, built using the MERN stack:
 
-````markdown
+
+
 # Taskify
 
 Taskify is a powerful and intuitive to-do application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It helps users manage their tasks efficiently and improve productivity with its user-friendly interface.
@@ -16,10 +17,9 @@ Taskify is a powerful and intuitive to-do application built with the MERN (Mongo
 
 ## Tech Stack
 
-- **Frontend**: React, Redux, Axios
+- **Frontend**: React, Redux
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Authentication**: JWT (JSON Web Tokens)
 
 ## Getting Started
 
@@ -35,7 +35,6 @@ Taskify is a powerful and intuitive to-do application built with the MERN (Mongo
    git clone https://github.com/yourusername/taskify.git
    cd taskify
    ```
-````
 
 2. Install backend dependencies:
 
