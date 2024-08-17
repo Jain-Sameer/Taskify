@@ -90,3 +90,5 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 Feel free to customize the content, especially the GitHub links and any additional sections you might want to include, such as screenshots or a more detailed contribution guide!
 ```
+
+# Taskify
